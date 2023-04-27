@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990724971230",
+    "project_id": "mytask-caaed",
+    "storage_bucket": "mytask-caaed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990724971230:android:8be96607b9ec0fdb10c04f",
+        "android_client_info": {
+          "package_name": "com.example.mytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990724971230-3s38c93qaedt0rek0rua3eqqcgll5kba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRigGm2B3mOuGpdK21XgoRCuDN4In-s-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990724971230-3s38c93qaedt0rek0rua3eqqcgll5kba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
